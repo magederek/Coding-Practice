@@ -1,3 +1,7 @@
+/*
+ * 2016/4/22, Baidu online programming test
+ * find the average waiting time of the Shortest Job First algorithm
+*/
 #include <iostream>
 #include <queue>
 
